@@ -16,7 +16,7 @@ function Footer() {
                             <div className="column col-xl-3 col-lg-12 col-md-12 col-sm-12">
                                 <div className="footer-widget about-widget">
                                     <div className="logo">
-                                        <li>ASINDIAINNOVATIONS</li>
+                                        <a href="#"><img src="images/logo.png" alt="" /></a>
                                     </div>
                                     <div className="text">Amet consectetur adipisicing elitm ipsum sed incididunt labore dolore magna.</div>
                                     <div className="info">
@@ -90,11 +90,11 @@ function Footer() {
                                                 <div className="social-links">
                                                     <div className="title text">Get the latest news & updates</div>
                                                     <ul className="clearfix">
-                                                        <li><a href="#"><span className="fab fa-facebook-square"></span></a></li>
-                                                        <li><a href="#"><span className="fab fa-twitter"></span></a></li>
-                                                        <li><a href="#"><span className="fab fa-instagram"></span></a></li>
-                                                        <li><a href="#"><span className="fab fa-youtube"></span></a></li>
-                                                        <li><a href="#"><span className="fab fa-pinterest"></span></a></li>
+                                                        <li><a href="#"><span class="fab fa-facebook-square"></span></a></li>
+                                                        <li><a href="#"><span class="fab fa-twitter"></span></a></li>
+                                                        <li><a href="#"><span class="fab fa-instagram"></span></a></li>
+                                                        <li><a href="#"><span class="fab fa-youtube"></span></a></li>
+                                                        <li><a href="#"><span class="fab fa-pinterest"></span></a></li>
                                                     </ul>
                                                 </div>
                                             </div>
@@ -117,9 +117,9 @@ function Footer() {
                 </div>
 
             </footer>
-            </>
+        </>
 
-);
+    );
 
 }
 export default Footer;
