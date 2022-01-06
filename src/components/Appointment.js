@@ -14,7 +14,7 @@ function Appointment() {
                             <div className="inner">
                                 <div className="sec-title">
                                     <div className="upper-text">AsIndia - Welcome to IT Solutions</div>
-                                    <h2>Why Choose <strong>ZenTech IT Solutions</strong></h2>
+                                    <h2>Why Choose <strong>AsIndia Innovation Pvt Ltd.</strong></h2>
                                     <div className="lower-text">Neque porro quisquam est qui dolorem ipsum quia dolor sit amet velit sed quia non numquam eius modi tempora incidunt labore.</div>
                                 </div>
 

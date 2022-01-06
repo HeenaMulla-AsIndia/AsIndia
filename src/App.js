@@ -7,6 +7,8 @@ import Footer from './components/Footer';
 import FutureITServices from './components/FutureITServices';
 import Appointment from './components/Appointment';
 import SolutionFocus from './components/SolutionFocus';
+import FunSection from './components/FunSection';
+
 import './App.css';
 
 
@@ -18,6 +20,7 @@ function App() {
       <Banner/>
       <FutureITServices/>
       <SolutionFocus/>
+      <FunSection/>
       <Appointment/>
       <Testimonial/>
       <NewsArticles/>

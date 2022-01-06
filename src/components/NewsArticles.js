@@ -9,7 +9,7 @@ function NewsArticles() {
                 <div class="auto-container">
 
                     <div class="sec-title centered">
-                        <div class="upper-text">Read ZenTech IT News</div>
+                        <div class="upper-text">Read AsIndia IT News</div>
                         <h2>Latest News & Articles</h2>
                         <div class="lower-text">Sit amet consectetur adipisicing elitm sed eiusmod temp sed incididunt labore dolore magna aliquatenim veniam quis ipsum nostrud exer citation ullamco laboris.</div>
                     </div>
