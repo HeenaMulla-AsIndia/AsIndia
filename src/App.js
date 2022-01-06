@@ -8,7 +8,8 @@ import FutureITServices from './components/FutureITServices';
 import Appointment from './components/Appointment';
 import SolutionFocus from './components/SolutionFocus';
 import FunSection from './components/FunSection';
-
+import Sponsers from './components/Sponsers';
+import Contact from './components/Contact';
 import './App.css';
 
 
@@ -24,6 +25,7 @@ function App() {
       <Appointment/>
       <Testimonial/>
       <NewsArticles/>
+      <Sponsers/>
       <Footer />
     </>
   );
