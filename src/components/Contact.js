@@ -173,6 +173,8 @@ function Contact() {
                                     data-icon-path="images/icons/map-marker-3.png"
                                     data-content="Manchester VIC 3000, Europe<br><a href='mailto:info@youremail.com'>info@youremail.com</a>">
                                 </div>
+
+                                
                             </div>
 
                         </div>

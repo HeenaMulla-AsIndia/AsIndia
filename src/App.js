@@ -18,7 +18,7 @@ function App() {
 
     <>
       <Header />
-      <Banner/>
+      {/* <Banner/> */}
       <FutureITServices/>
       <SolutionFocus/>
       <FunSection/>

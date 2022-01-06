@@ -18,7 +18,7 @@ function Banner() {
                                             <div className="round-layer"></div>
 
                                             <div className="content">
-                                                <div className="inner">
+                                                <div className="inner" >
                                                     <div className="sub-title">IT Solutions For Easy Integration</div>
                                                     <h1>Deliver <strong>Innovative IT Solutions</strong> For Technology Insights</h1>
                                                     <div className="text">Building a relationship between IT companies &amp; experts</div>
