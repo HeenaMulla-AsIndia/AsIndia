@@ -7,8 +7,14 @@ import Footer from './components/Footer';
 import FutureITServices from './components/FutureITServices';
 import Appointment from './components/Appointment';
 import SolutionFocus from './components/SolutionFocus';
+
 import SolutionsIT from './components/SolutionsIT';
 import Prominent from './components/Prominent';
+
+import FunSection from './components/FunSection';
+import Sponsers from './components/Sponsers';
+import Contact from './components/Contact';
+
 import './App.css';
 
 
@@ -17,14 +23,19 @@ function App() {
 
     <>
       <Header />
-      <Banner/>
+      {/* <Banner/> */}
       <FutureITServices/>
       <SolutionFocus/>
+      <FunSection/>
       <Appointment/>
       <Testimonial/>
       <NewsArticles/>
+
       <SolutionsIT/>
       <Prominent/>
+
+      <Sponsers/>
+
       <Footer />
     </>
   );

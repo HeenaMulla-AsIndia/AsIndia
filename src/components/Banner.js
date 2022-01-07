@@ -18,7 +18,7 @@ function Banner() {
                                             <div className="round-layer"></div>
 
                                             <div className="content">
-                                                <div className="inner">
+                                                <div className="inner" >
                                                     <div className="sub-title">IT Solutions For Easy Integration</div>
                                                     <h1>Deliver <strong>Innovative IT Solutions</strong> For Technology Insights</h1>
                                                     <div className="text">Building a relationship between IT companies &amp; experts</div>
@@ -174,6 +174,9 @@ function Banner() {
                                     </div>
                                 </div></div></div></div><div className="owl-nav"><button type="button" role="presentation" className="owl-prev"><span className="icon fa fa-arrow-left"></span></button><button type="button" role="presentation" className="owl-next"><span className="icon fa fa-arrow-right"></span></button></div><div className="owl-dots"><button role="button" className="owl-dot"><span></span></button><button role="button" className="owl-dot"><span></span></button><button role="button" className="owl-dot active"><span></span></button><button role="button" className="owl-dot"><span></span></button></div></div>
             </section>
+
+
+            
         </>
 
     );
