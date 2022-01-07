@@ -4,7 +4,7 @@ import React from 'react';
 function Testimonial() {
     return (
         <>
-            <section className="testimonials-section">
+             <section className="testimonials-section">
                 {/* <!--Testimonials Section--> */}
                 <div className="image-layer" style={{ backgroundImage: 'url(images/background/image-2.jpg)' }}></div>
 
@@ -73,11 +73,19 @@ function Testimonial() {
                                             <div className="designation">CEO, IT Works</div>
                                         </div>
                                     </div>
-                                </div></div></div></div><div className="owl-nav"><button type="button" role="presentation" className="owl-prev"><span className="icon fa fa-arrow-left"></span></button><button type="button" role="presentation" className="owl-next"><span className="icon fa fa-arrow-right"></span></button></div><div className="owl-dots"><button role="button" className="owl-dot active"><span></span></button><button role="button" className="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button></div></div>
+                                </div></div></div></div>
+                                <div className="owl-nav"><button type="button" role="presentation" className="owl-prev">
+                                    <span className="icon fa fa-arrow-left"></span></button>
+                                    <button type="button" role="presentation" className="owl-next">
+                                        {/* <span className="icon fa fa-arrow-right"></span></button></div>
+                                        <div className="owl-dots"><button role="button" className="owl-dot active">
+                                            <span></span></button><button role="button" className="owl-dot"> */}
+                                                {/* <span></span></button><button role="button" class="owl-dot"> */}
+                                                    <span></span></button></div></div>
                     </div>
                 </div>
 
-            </section>
+            </section> 
         </>
 
     );

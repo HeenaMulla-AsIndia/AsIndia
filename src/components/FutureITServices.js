@@ -11,7 +11,7 @@ function FutureITServices() {
                 <div className="text-column col-lg-6 col-md-12 col-sm-12">
                     <div className="inner">
                         <div className="sec-title">
-                            <div className="upper-text">ZenTec - Welcome to IT Solutions</div>
+                            <div className="upper-text">AsIndia - Welcome to IT Solutions</div>
                             <h2>Let us be your next <strong>Preferred IT Partner</strong></h2>
                         </div>
 
