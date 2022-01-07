@@ -7,6 +7,7 @@ import Footer from './components/Footer';
 import FutureITServices from './components/FutureITServices';
 import Appointment from './components/Appointment';
 import SolutionFocus from './components/SolutionFocus';
+
 import SolutionsIT from './components/SolutionsIT';
 import Prominent from './components/Prominent';
 import PreferredIT from './components/AboutUs/PreferredIT';
@@ -19,14 +20,19 @@ function App() {
 
     <>
       <Header />
-      <Banner/>
+      {/* <Banner/> */}
       <FutureITServices/>
       <SolutionFocus/>
+      {/* <FunSection/> */}
       <Appointment/>
       <Testimonial/>
       <NewsArticles/>
+
       <SolutionsIT/>
       <Prominent/>
+
+      {/* <Sponsers/> */}
+
       <Footer />
       <PreferredIT/>
       <ExpertIT/>
