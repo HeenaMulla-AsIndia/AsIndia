@@ -9,6 +9,8 @@ import Appointment from './components/Appointment';
 import SolutionFocus from './components/SolutionFocus';
 import SolutionsIT from './components/SolutionsIT';
 import Prominent from './components/Prominent';
+import PreferredIT from './components/AboutUs/PreferredIT';
+import ExpertIT from './components/AboutUs/ExpertIT';
 import './App.css';
 
 
@@ -26,6 +28,8 @@ function App() {
       <SolutionsIT/>
       <Prominent/>
       <Footer />
+      <PreferredIT/>
+      <ExpertIT/>
     </>
   );
 }
